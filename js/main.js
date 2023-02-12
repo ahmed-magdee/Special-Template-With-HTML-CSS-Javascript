@@ -100,7 +100,7 @@ function changeTheBackground () { // Change The Background
       if (length >= imgsArray.length) {
         length = 0
       }
-    }, 1000);
+    }, 5000);
 }
 changeTheBackground ()
 selectYesOrNo.forEach(span => { // LocalStorage Span
